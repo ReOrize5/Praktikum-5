@@ -27,10 +27,36 @@ dan outputnya akan seperti ini !!
 
 <img width="524" alt="Screenshot_20221128_100352" src="https://user-images.githubusercontent.com/115756982/204182615-f602eafb-5796-4b08-9d62-581b59bc3170.png">
 
-Hasilnya akan sepeti diatas kalian bisa menambahkan data 
+Hasilnya akan sepeti diatas kalian bisa :
 
-mengubah data 
+-) menambahkan data 
 
-ataupu  melihat data diatas 
+-) mengubah data 
+
+-) ataupun  melihat data diatas 
+
+
+===========================================================================================
+
+
+#Latihan 
+
+ini adalah salah satu contoh latihan
+berkut akan saya tampilkan gambarnya
+
+<img width="472" alt="Screenshot_20221128_102507" src="https://user-images.githubusercontent.com/115756982/204186671-921fdfb5-b5a0-4630-b0e5-081abfc7957a.png">
+
+Outputnya akan seperti ini
+
+<img width="436" alt="Screenshot_20221128_102549" src="https://user-images.githubusercontent.com/115756982/204186711-ea49e1a3-e98e-408a-8715-4415091f9b1b.png">
+
+jikalau kita ingin menghapus salah satu list nomer diatas tambahkan program ini
+
+<img width="278" alt="Screenshot_20221128_102609" src="https://user-images.githubusercontent.com/115756982/204186715-cdcc9985-6022-4521-8d15-c07d883c2c1c.png">
+
+outputnya akan seperti ini 
+
+<img width="204" alt="Screenshot_20221128_102629" src="https://user-images.githubusercontent.com/115756982/204186720-94089c4b-03e1-4619-83b0-ebeaaac456d2.png">
+
 
 sekian terima kasih
